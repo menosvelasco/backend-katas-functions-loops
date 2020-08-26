@@ -8,8 +8,7 @@ __author__ = "???"
 
 def add(x, y):
     """Add two integers."""
-    # your code here
-    return
+    return x + y
 
 
 def multiply(x, y):
